@@ -6,7 +6,7 @@
 
 支持单端口多用户、多协议的 xray 面板，究极缝合怪    
 通过免费的Telegram bot方便快捷地进行监控、管理你的代理服务  
-&#x26A1;`xtls-rprx-vision`与`reality`快速入手请看[这里](https://github.com/FranzKafkaYu/x-ui/wiki/%E8%8A%82%E7%82%B9%E9%85%8D%E7%BD%AE)  
+&#x26A1;`xtls-rprx-vision`与`reality`快速入手请看[这里](https://github.com/RisesunStudios/x-ui/wiki/%E8%8A%82%E7%82%B9%E9%85%8D%E7%BD%AE)  
 欢迎大家使用并反馈意见或提交Pr,帮助项目更好的改善  
 如果您觉得本项目对您有所帮助,不妨给个star:star2:支持我  
 或者你恰巧有购买服务器的需求,可以通过文末的赞助部分支持我~ 
@@ -31,8 +31,8 @@
 - Telegram bot通知、控制功能
 - 更多高级配置项，详见面板 
 
-:bulb:具体**使用、配置细节以及问题排查**请点击这里:point_right:[WIKI](https://github.com/FranzKafkaYu/x-ui/wiki):point_left:  
- Specific **Usages、Configurations and Debug** please refer to [WIKI](https://github.com/FranzKafkaYu/x-ui/wiki)    
+:bulb:具体**使用、配置细节以及问题排查**请点击这里:point_right:[WIKI](https://github.com/RisesunStudios/x-ui/wiki):point_left:  
+ Specific **Usages、Configurations and Debug** please refer to [WIKI](https://github.com/RisesunStudios/x-ui/wiki)    
 # 一键安装
 在安装前请确保你的系统支持`bash`环境,且系统网络正常  
 
