@@ -191,10 +191,6 @@ xray 状态: 运行
 - 2022.04.16：增加面板设置Telegram bot功能
 - 2022.04.12：优化Telegram Bot通知提醒
 - 2022.04.06：优化安装/更新流程，增加证书签发功能，添加Telegram bot机器人推送功能
-# Telegram
-
-[订阅频道](https://t.me/CoderfanBaby)  
-[讨论群组](https://t.me/franzkafayu)
 
 # 致谢
 
@@ -205,6 +201,7 @@ xray 状态: 运行
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/FranzKafkaYu/x-ui.svg)](https://starchart.cc/FranzKafkaYu/x-ui)
+
 
 
 
