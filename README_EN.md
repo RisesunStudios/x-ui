@@ -97,11 +97,6 @@ please input a legal number[0-16]:
 - Ubuntu 16+
 - Debian 8+
 
-# Telegram
-
-[Channel](https://t.me/CoderfanBaby)  
-[Group](https://t.me/RisesunStudios)
-
 # Credits
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui)
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
