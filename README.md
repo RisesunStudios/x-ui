@@ -200,7 +200,7 @@ xray 状态: 运行
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/FranzKafkaYu/x-ui.svg)](https://starchart.cc/FranzKafkaYu/x-ui)
+[![Stargazers over time](https://starchart.cc/RisesunStudios/x-ui.svg)](https://starchart.cc/RisesunStudios/x-ui)
 
 
 
